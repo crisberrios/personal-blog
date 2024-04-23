@@ -1,5 +1,5 @@
 +++
-title = "New Journey, New Blog, and a short 10 Year Recap"
+title = "New Journey, New Blog, and a Short 10-Year Recap"
 date = "2024-04-22"
 description = "A reflection on my journey so far as a software developer."
 [taxonomies]
