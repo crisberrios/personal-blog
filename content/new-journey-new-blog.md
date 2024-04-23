@@ -14,7 +14,7 @@ Here we are, once more with a new blog. It's been a while since I last wrote som
 
 ## The Short Version
 
-I'm alive and well! It's been a long journey since first began learning web development about 10 years ago (Mandatory shout out to Quincy at [freeCodeCamp](https://www.freecodecamp.org)). I've been mostly focused on the .NET space and everything JavaScript, but I have even done some Java, PHP, and even ColdFusion!, though I don't list them on my resume.
+I'm alive and well! It's been a long journey since first began learning web development about 10 years ago (Mandatory shout-out to Quincy at [freeCodeCamp](https://www.freecodecamp.org)). I've been mostly focused on the .NET space and everything JavaScript, but I have even done some Java, PHP, and even ColdFusion!, though I don't list them on my resume.
 
 I had great luck finding an awesome company to join in the USA back in 2015, and have participated in a dozen or more projects since then: small assessments, multi-year engagements, and everything in between.
 
