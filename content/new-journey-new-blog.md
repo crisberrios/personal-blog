@@ -32,19 +32,15 @@ Over the past decade, I've consumed countless blog posts, books, courses, and Yo
 
 Mentoring those early in their careers has also been a rewarding experience, and I wish I could do more of it. Preparing workshops or documentation for my team, or explaining patterns and features of technologies I love, have been some of the best learning opportunities.
 
-But what about the blog?
+But what about blogging?
 
 ## Failed Blogs and the Reason for a New One
 
 My previous blog, which you can still find [here](https://condescending-snyder-76461d.netlify.app/), didn't host a single post. I made it as a proof-of-concept at a time when I was exploring Gatsby and applying the principles from [Every Layout](https://every-layout.dev/) to build my own CSS utility classes.
 
-It did succeed though at helping me understand the involved technologies. The same thing happened with the previous one which used `Wintersmith` (the last version was published in 2014). They've all served mostly a single purpose: To learn the technologies involved in building it, rather than focusing on the content.
+It did succeed though at helping me understand the involved technologies. The same thing happened with the previous one which used `Wintersmith` (the last version was published in 2014). It was primarily an exercise on publishing static sites, even though I did publish a few posts on that first iteration. I may even bring back some content back.
 
-While it may seem like a failed attempt at blogging, it served a crucial purpose. It was a learning platform that helped me understand the technologies and processes involved in building a static blog. The focus was more on the technical aspects rather than the content itself, which was a valuable experience in its own right.
-
-The same can be said for my earlier blog (which did have a few posts) that utilized **Wintersmith** (obsolete). It was also a stepping stone in my journey to understanding the intricacies of blog creation and public writing.
-
-These experiences, though seemingly unsuccessful in the traditional sense of blogging, were instrumental in my learning process. They served a singular, yet significant purpose: to learn the technologies involved. Now, with this new blog, I aim to shift my focus from the technical aspects to creating and sharing meaningful content.
+These experiences, though seemingly unsuccessful in the traditional sense of blogging, were instrumental in my learning process. They served a singular, yet significant purpose: to learn the technologies involved. Now, with this new blog, I aim to shift my focus from the technical aspects (of creating a blog) to creating and sharing meaningful content.
 
 ## What About the Content?
 

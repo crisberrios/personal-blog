@@ -1,11 +1,18 @@
 # The URL the site will be built for
-base_url = "https://crisberrios.netlify.app"
+base_url = "https://crisberrios.com"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
+
+# The site title and description; used in feeds by default.
+title = "Cris Berríos"
+description = "Personal blog covering my life as a full-stack developer. Primarily .NET and JS/TS ecosystems."
+
+# The default site author.
+author = "Cristián Berríos"
 
 #theme
 theme = "kita"
@@ -68,7 +75,7 @@ comment = false
 
 # The profile on home page.
 [extra.profile]
-name = "Cristián Berríos"
+name = "Cris Berríos"
 bio = "Software Engineer, learner, geek."
 # The URL of avatar.
 avatar_url = "icons/github.svg"
