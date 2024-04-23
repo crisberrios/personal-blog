@@ -56,10 +56,11 @@ I'm going strong in my software engineering career. I've been in the industry fo
 
 Although I haven't been very active in open-source projects, I've been learning and sharing knowledge through other means, such as:
 
-- Countless articles, books, and courses
+- Reading countless articles and books, and completing many courses
 - Presenting to peers on various technical and non-technical topics
 - Mentoring junior developers
 - Creating workshops and documentation for my team
+- Working on multiple pet projects
 
 I've attempted blogging in the past, but my previous blogs were more focused on learning the technical aspects of building a blog rather than creating content.
 
