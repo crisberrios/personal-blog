@@ -14,7 +14,7 @@ Here we are, once more with a new blog. It's been a while since I last wrote som
 
 ## The Short Version
 
-I'm alive and well! It's been a long journey since first began learning web development about 10 years ago (Mandatory shout-out to Quincy at [freeCodeCamp](https://www.freecodecamp.org)). I've been mostly focused on the .NET space and everything JavaScript, but I have even done some Java, PHP, and even ColdFusion!, though I don't list them on my resume.
+I'm alive and well! It's been a long journey since I first began learning web development about 10 years ago (Mandatory shout-out to Quincy at [freeCodeCamp](https://www.freecodecamp.org)). I've been mostly focused on the .NET space and everything JavaScript, but I have also done some Java, PHP, and even ColdFusion!, though I don't list them on my resume.
 
 I had great luck finding an awesome company to join in the USA back in 2015, and have participated in a dozen or more projects since then: small assessments, multi-year engagements, and everything in between.
 
@@ -38,7 +38,7 @@ But what about blogging?
 
 My previous blog, which you can still find [here](https://condescending-snyder-76461d.netlify.app/), didn't host a single post. I made it as a proof-of-concept at a time when I was exploring Gatsby and applying the principles from [Every Layout](https://every-layout.dev/) to build my own CSS utility classes.
 
-It did succeed though at helping me understand the involved technologies. The same thing happened with the previous one which used `Wintersmith` (the last version was published in 2014). It was primarily an exercise on publishing static sites, even though I did publish a few posts on that first iteration. I may even bring back some content back.
+It did succeed, though, at helping me understand the technologies involved. The same thing happened with the previous one, which used `Wintersmith` (the last version was published in 2014). It was primarily an exercise in publishing static sites, even though I did publish a few posts on that first iteration. I may even bring back some content.
 
 These experiences, though seemingly unsuccessful in the traditional sense of blogging, were instrumental in my learning process. They served a singular, yet significant purpose: to learn the technologies involved. Now, with this new blog, I aim to shift my focus from the technical aspects (of creating a blog) to creating and sharing meaningful content.
 
@@ -48,7 +48,7 @@ As a seasoned developer, I've had the privilege of experiencing a wide range of 
 
 The importance of knowledge sharing in software development cannot be overstated. We've all benefited from others' solutions, whether through online forums, conferences, or courses. Now, I'm excited to pay it forward and share my own experiences, to help others avoid similar pitfalls and save time.
 
-It's also a critical time for software engineers with the emergence of generative AI and Large Language Models (LLMs), I believe embracing these technologies will be crucial to our productivity and relevance as developers. Time will tell, but I've been having a great time integrating them into my workflow, and believe it's a game-changer in improving our daily lives as techies.
+It's also a critical time for software engineers: with the emergence of generative AI and Large Language Models (LLMs), I believe embracing these technologies will be crucial to our productivity and relevance as developers. Time will tell, but I've been having a great time integrating them into my workflow, and I believe it's a game-changer in improving our daily lives as techies.
 
 ## Summary
 
